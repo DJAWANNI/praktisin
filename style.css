@@ -1,0 +1,26 @@
+.kat-group{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.kat-group div{
+    padding: 15px;
+}
+.card-st{
+   padding-left: 28%;
+   padding-right: 28%;
+}
+.img-st{
+    width:100% ;
+}
+/* .but-izb{
+    margin-left: 55%;
+} */
+.btn-nxt-l{
+   border-top-right-radius: 0;
+   border-bottom-right-radius:0;
+}
+.btn-nxt-r{
+   border-top-left-radius: 0;
+   border-bottom-left-radius:0;
+}
